@@ -1,0 +1,11 @@
+{
+    "name": "project/project",
+    "private": "true",
+    "dependencies": {
+        "bootstrap-sass":       "3.*",
+        "font-awesome-sass":    "4.*",
+        "html5shiv":            "3.*",
+        "modernizr":            "2.*",
+        "respond":              "1.*"
+    }
+}
